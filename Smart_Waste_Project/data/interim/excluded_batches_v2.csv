@@ -1,0 +1,23 @@
+BatchID,ItemName,Category,Arrival,Expiry,Rows,Spoiled,Expired_before_collection,Spoiled_flag
+Amul Milk 500ml|11|0616|0628,Amul Milk 500ml,Dairy,2025-06-16,2025-06-28,20,False,False,0
+Amul Milk 500ml|12|0626|0630,Amul Milk 500ml,Dairy,2025-06-26,2025-06-30,18,False,False,0
+Bingo Mad Angles|289|0627|0707,Bingo Mad Angles,Snacks,2025-06-27,2025-07-07,17,False,False,0
+Bingo Mad Angles|60|0622|0703,Bingo Mad Angles,Snacks,2025-06-22,2025-07-03,28,False,False,0
+Bingo Mad Angles|63|0625|0702,Bingo Mad Angles,Snacks,2025-06-25,2025-07-02,20,False,False,0
+Bingo Mad Angles|92|0620|0628,Bingo Mad Angles,Snacks,2025-06-20,2025-06-28,25,False,False,0
+Brown Bun Pack|247|0625|0703,Brown Bun Pack,Bakery,2025-06-25,2025-07-03,19,False,False,0
+Brown Bun Pack|39|0619|0630,Brown Bun Pack,Bakery,2025-06-19,2025-06-30,23,False,False,0
+Brown Bun Pack|90|0626|0708,Brown Bun Pack,Bakery,2025-06-26,2025-07-08,16,False,False,0
+Chicken Breast 500g|100|0626|0705,Chicken Breast 500g,Meat,2025-06-26,2025-07-05,21,True,False,1
+Chicken Breast 500g|260|0625|0705,Chicken Breast 500g,Meat,2025-06-25,2025-07-05,15,False,False,0
+Fish Fillet 300g|206|0618|0629,Fish Fillet 300g,Meat,2025-06-18,2025-06-29,17,True,False,1
+Kurkure Masala|224|0624|0706,Kurkure Masala,Snacks,2025-06-24,2025-07-06,29,True,False,1
+Lays Chips 100g|232|0623|0703,Lays Chips 100g,Snacks,2025-06-23,2025-07-03,15,False,False,0
+Mother Dairy Butter 100g|38|0618|0628,Mother Dairy Butter 100g,Dairy,2025-06-18,2025-06-28,17,True,False,1
+Multigrain Cookies|224|0618|0629,Multigrain Cookies,Bakery,2025-06-18,2025-06-29,22,True,False,1
+Multigrain Cookies|60|0625|0630,Multigrain Cookies,Bakery,2025-06-25,2025-06-30,20,False,False,0
+Mutton Mince 250g|271|0622|0704,Mutton Mince 250g,Meat,2025-06-22,2025-07-04,11,False,False,0
+Mutton Mince 250g|295|0626|0703,Mutton Mince 250g,Meat,2025-06-26,2025-07-03,22,False,False,0
+Mutton Mince 250g|96|0619|0701,Mutton Mince 250g,Meat,2025-06-19,2025-07-01,17,False,False,0
+White Bread|162|0626|0702,White Bread,Bakery,2025-06-26,2025-07-02,17,False,False,0
+White Bread|261|0625|0704,White Bread,Bakery,2025-06-25,2025-07-04,19,False,False,0
